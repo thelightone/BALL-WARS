@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
-    private int _roundNum = 0;
+    private int _roundNum = 1;
     private float _range = 9;
     private int _enemyCount = 0;
 
